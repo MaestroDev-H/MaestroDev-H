@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="GitHub_Banner.png/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Habibur%20Rahel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Digital%20Designer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="GitHub_Banner.png" width="100%"/>
 
 <a href="https://github.com/MaestroDev-H">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+with+TypeScript+%2B+Node.js;Bridging+Engineering+%26+Aesthetics;10%2B+Years+turning+ideas+into+clean+products" alt="Typing SVG" />
