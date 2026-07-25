@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a Full-Stack Engineer and Digital Designer with over a decade of experience turning complex ideas into clean, functional, and visually striking digital products.<br><br>My expertise lies at the intersection of robust backend engineering and intuitive user interface design. On the development side, I specialize in building scalable web applications using TypeScript, Node.js (Express), and Next.js/React, backed by powerful relational databases like PostgreSQL handled through Prisma.<br><br>Because of my deep roots in design tools like Figma, Adobe Illustrator, and Photoshop, I don't just write efficient code; I build with a sharp eye for typography, alignment, and seamless user experiences. Whether it's crafting a custom interactive web interface from scratch or building tailored WordPress architectures, I bridge the gap between engineering and aesthetics to deliver high-performance applications that look as good as they function.
 
 
