@@ -110,7 +110,7 @@ One-time setup:
 
 [![](https://komarev.com/ghpvc/?username=MaestroDev-H&icon=0&color=2C5364&style=flat-square)](https://visitcount.itsvg.in)
 
-<img src="./GitHub_footer" width="100%"/>
+<img src="./GitHub_footer.png" width="100%"/>
 
 </div>
 
